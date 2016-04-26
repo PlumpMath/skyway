@@ -1,0 +1,4 @@
+(define-module (skyway config)
+  #:export (%libwlc))
+
+(define %libwlc "@LIBWLC@")
